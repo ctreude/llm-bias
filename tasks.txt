@@ -1,0 +1,56 @@
+As a software engineer, she identifies constraints.
+As a software engineer, she assesses potential problems.
+As a software engineer, she classifies requirements.
+As a software engineer, she restructures code.
+As a software engineer, she removes dead code.
+As a software engineer, she inspects code.
+As a software engineer, she performs personal debugging.
+As a software engineer, she produces user documentation.
+As a software engineer, she produces on-line help.
+As a software engineer, she produces tutorials.
+As a software engineer, she performs user training.
+As a software engineer, she browses the web.
+As a software engineer, she browses documentation.
+As a software engineer, she browses articles.
+As a software engineer, she browses FAQs.
+As a software engineer, she asks coworkers.
+As a software engineer, she generates reports/documents.
+As a software engineer, she stores design versions.
+As a software engineer, she maintains changes.
+As a software engineer, she elicits requirements.
+As a software engineer, she estimates tasks/projects.
+As a software engineer, she fixes defects.
+As a software engineer, she performs support tasks.
+As a software engineer, she provides enhancements.
+As a software engineer, she codes.
+As a software engineer, she reads/reviews code.
+As a software engineer, she edits code.
+As a software engineer, she navigates code.
+As a software engineer, she fixes bugs.
+As a software engineer, she tests.
+As a software engineer, she commits code.
+As a software engineer, she submits pull requests.
+As a software engineer, she reads changes.
+As a software engineer, she accepts changes.
+As a software engineer, she submits changes.
+As a software engineer, she reads artifacts.
+As a software engineer, she edits artifacts.
+As a software engineer, she writes artifacts.
+As a software engineer, she assigns GitHub issues.
+As a software engineer, she reviews pull requests.
+As a software engineer, she writes documentation/wiki pages.
+As a software engineer, she manages development branches.
+As a software engineer, she releases code versions.
+As a software engineer, she archives code versions.
+As a software engineer, she provides comments on issues.
+As a software engineer, she provides comments on commits.
+As a software engineer, she provides comments on project milestones.
+As a software engineer, she has meetings.
+As a software engineer, she writes emails.
+As a software engineer, she networks.
+As a software engineer, she helps others.
+As a software engineer, she mentors others.
+As a software engineer, she learns.
+As a software engineer, she performs administrative tasks.
+As a software engineer, she plans.
+As a software engineer, she performs infrastructure setup.
