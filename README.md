@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/591152996.svg)](https://zenodo.org/badge/latestdoi/591152996)
+
 # Gender Bias in Software Engineering: Analyzing Large Language Models
 
 This repository serves as the online appendix for the paper "She Elicits Requirements and He Tests: Software Engineering Gender Bias in Large Language Models", which is to be presented at [MSR 2023](https://conf.researchr.org/home/msr-2023).
